@@ -24,7 +24,7 @@
     "bugs": "https://github.com/drstearns/passport-uwshib/issues",
     "main": "index.js",
     "dependencies": {
-        "passport-saml": ">=0.10.0"
+        "passport-saml": "0.9.2"
     },
     "engines": {
         "node": ">=0.10.28"
